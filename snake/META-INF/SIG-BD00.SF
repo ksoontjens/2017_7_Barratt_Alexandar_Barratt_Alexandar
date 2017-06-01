@@ -1,0 +1,38 @@
+Signature-Version: 1.0
+Created-By: 1.6.0_16 (Sun Microsystems Inc.)
+BDJ-Signature-Version: 1.0
+SHA1-Digest-Manifest: OD1TU4Yz2ho88ybjGy8w3ZzzpUA=
+
+Name: hellotvxlet/HelloTVXlet.class
+SHA1-Digest: YioaEzLm4XzVOIccTw2RwyUvs70=
+
+Name: hellotvxlet/CoinHandler.class
+SHA1-Digest: VX8vQf45MYCKA6FsakgeHxDihXc=
+
+Name: hellotvxlet/Coin.class
+SHA1-Digest: IZPzBNk4+LsZlKbhQZ9KZeFt+/Q=
+
+Name: hellotvxlet/SnakeChain.class
+SHA1-Digest: hcurfH+oeRSqskHA8EVjGZxbcNM=
+
+Name: hellotvxlet/Publisher.class
+SHA1-Digest: Sh8ud1Sz9It3wulBfI3bO5PbodU=
+
+Name: hellotvxlet/ObserverInterface.class
+SHA1-Digest: Bo1NMRjHMI9UCJqpsAR2BJIJ2l0=
+
+Name: hellotvxlet/bluray.HelloTVXlet.perm
+SHA1-Digest: Iz2EmX/hIvVXbO3PX0e6hezSY28=
+
+Name: hellotvxlet/Sprite.class
+SHA1-Digest: tal6MsDUhYVBvkHc+T48fGV32oA=
+
+Name: hellotvxlet/PublisherInterface.class
+SHA1-Digest: LZU3iOABIEm541XlxuSZEmMCl0w=
+
+Name: hellotvxlet/SnakeComponent.class
+SHA1-Digest: Rc4Jua3FjU1ZcnYSn+zbkibi+m8=
+
+Name: hellotvxlet/SnakeXlet.class
+SHA1-Digest: VFsBAfjZBTsHzupFGth4XcstFQg=
+
